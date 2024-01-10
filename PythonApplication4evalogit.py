@@ -8,7 +8,7 @@
 #print(type(nimi))
 #print(type(vanus))
 
-#arv1=float(input("Arv 1: "))
+#arv1=float(input("Arv 1: ")) #3.45
 #t=input("Tehe: ")
 #arv2=float(input("Arv 2: "))
 #vastus=eval(str(arv1)+t+str(arv2))
