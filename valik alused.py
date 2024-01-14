@@ -179,7 +179,7 @@
 #else:
 #    print("Vabandust, aga hetkel võtame vastu ainult meeskandidaate.")
 
-#14 Busside logistika
+#14 Busside logistik 
 #arv ja busside suurust
 #inimeste_arv = int(input("Sisesta inimeste arv: "))
 #bussi_suurus = int(input("Sisesta bussi suurus: "))
