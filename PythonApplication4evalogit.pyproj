@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6bdc6c54-11d9-4188-808b-8e80414f84e6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>kordused.py</StartupFile>
+    <StartupFile>Töö Vigade otsing 2 Sirakus.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="klassnaja rabota.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="kordused.py">
       <SubType>Code</SubType>
     </Compile>
@@ -28,6 +31,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="PythonApplication4evalogit.py" />
+    <Compile Include="Töö Vigade otsing 2 Sirakus.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="valik alused.py">
       <SubType>Code</SubType>
     </Compile>
