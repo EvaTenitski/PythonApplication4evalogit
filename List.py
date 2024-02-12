@@ -311,3 +311,18 @@
 #    if otsingusõna in sõna:
 #        print(sõna)
 
+#18
+#predmetid = []
+#for i in range(5):
+#    predmet = input("Sisesta predmet: ")
+#    predmetid.append(predmet)
+
+#print("Sisestatud: ", predmetid)
+#predmetid.sort()
+#print("Sorteeritud: ", predmetid)
+#asendatav_predmet = input("Mis predmet on vaja asendada? ")
+#indeks = predmetid.index(asendatav_predmet)
+#uus_predmet = input("Uus predmet: ")
+#predmetid[indeks] = uus_predmet
+#predmetid = set(predmetid)
+#print(predmetid)
