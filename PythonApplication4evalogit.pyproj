@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6bdc6c54-11d9-4188-808b-8e80414f84e6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>List.py</StartupFile>
+    <StartupFile>Matemaatika kodutoo.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
