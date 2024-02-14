@@ -98,11 +98,23 @@
 #print(nimed) #
 
 #3----------------------------------------
-#values = [10, 12, 20, 30, 40, 10]
-#for value in values:
-#    print('*' * value)
+#from random import *
+#from string import *
+##3*************
+#while True:
+#"while True:
+#    try:
+#        S=input ("Mis sümbol korrutame? ")
+#        if s in punctuation:
+#            break
+#    else:
+#        print ("Vale sümbol")
+#    except:
+#        print("Vale sümbol")
+#for i in range(N) :
+#    print(randint(1,25)+5)
 
-##4----------------------------------
+###4----------------------------------
 #postiindeks = input("Napishi postiideks: ")
 
 #if len(postiindeks) != 5 or not postiindeks.isdigit():
