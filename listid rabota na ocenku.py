@@ -119,7 +119,7 @@
 #13 ----------------------------------------
 #import random
 
-## Список слов
+
 #sõnad = ["eda", "kot", "petuh", "les", "utka", "doroga"]
 #valitud_sõna = random.choice(sõnad)
 
