@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6bdc6c54-11d9-4188-808b-8e80414f84e6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>listid rabota na ocenku.py</StartupFile>
+    <StartupFile>PraktilineTööPalgad.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="funktsioonideKasutamine.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="klassnaja rabota.py">
       <SubType>Code</SubType>
     </Compile>
@@ -36,7 +39,13 @@
     <Compile Include="Matemaatika kodutoo.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="palgad_moodul.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Praktiline töö Kehamassiindeks.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PraktilineTööPalgad.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="PythonApplication4evalogit.py" />
