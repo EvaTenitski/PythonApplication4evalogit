@@ -1,22 +1,30 @@
 #1-------------------—
 import palgad_moodul 
-#def lisa_inimene_ja_palk(people, salaries):
+#def lisa_inimene_ja_palk(inimesed, palgad):
 # """Lisab uue inimese ja tema palga listidesse."""
 # inimene = input("Sisestage uue inimese nimi: ")
 # palk = float(input("Sisestage selle inimese palk: "))
 # people.append(inimene)
 # salaries.append(palk)
 
+#2----------------------------
+
+
+
+
+
+
+
 #3------------------—
-#def suurim_palk(people, salaries):
-#    """Leiab kõrgeima palgaga inimese."""
-#    if not people:
-#        print("Andmelist on tühi.")
-#        return None, None
-#    max_salary = max(salaries)
-#    max_index = salaries.index(max_salary)
-#    max_person = people[max_index]
-#    return max_person, max_salary
+def suurim_palk(inimesed, palgad):
+    """Leiab kõrgeima palgaga inimese."""
+    if not people:
+        print("Andmelist on tühi.")
+        return None, None
+    max_salary = max(salaries)
+    max_index = salaries.index(max_salary)
+    max_person = people[max_index]
+    return max_person, max_salary
 
 #4--------------------------
 #def vaikseim_palk(inimesed, palgad):

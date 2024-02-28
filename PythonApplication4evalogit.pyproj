@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6bdc6c54-11d9-4188-808b-8e80414f84e6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PraktilineTööPalgad.py</StartupFile>
+    <StartupFile>RegistreerimineJaautoriseerimine.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,38 +24,17 @@
     <Compile Include="funktsioonideKasutamine.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="klassnaja rabota.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="kordused.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="List.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="listid rabota na ocenku.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Matemaatika kodutoo.py">
+    <Compile Include="MyModule.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="palgad_moodul.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Praktiline töö Kehamassiindeks.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="PraktilineTööPalgad.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="PythonApplication4evalogit.py" />
-    <Compile Include="Töö Vigade otsing 2 Sirakus.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="valik alused.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Vigade otsing -1.py">
+    <Compile Include="RegistreerimineJaautoriseerimine.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
