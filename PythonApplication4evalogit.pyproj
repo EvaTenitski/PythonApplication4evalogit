@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6bdc6c54-11d9-4188-808b-8e80414f84e6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>RegistreerimineJaautoriseerimine.py</StartupFile>
+    <StartupFile>Palgad_logitgv23.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,16 +21,13 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="funktsioonideKasutamine.py">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="MyModule.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="palgad_moodul.py">
+    <Compile Include="PalgadeMoodul.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="PraktilineTööPalgad.py">
+    <Compile Include="Palgad_logitgv23.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="PythonApplication4evalogit.py" />
